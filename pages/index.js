@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>Deploy atualizado</h1>
+    return <h1>Teste deploy atualizado</h1>
 }
 
 export default Home;
